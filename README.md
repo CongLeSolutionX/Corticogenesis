@@ -2,7 +2,7 @@
 
 <div align="center">
 	<h1>
-		<strong>Corticogenesis Visualization </strong>
+		<strong>Corticogenesis </strong>
 	</h1>
     <p>SwiftUI implementation for the Corticogenesis Visualization</p>
 	
