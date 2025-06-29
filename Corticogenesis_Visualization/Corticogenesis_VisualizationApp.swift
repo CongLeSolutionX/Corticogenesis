@@ -11,7 +11,7 @@ import SwiftUI
 struct Corticogenesis_VisualizationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CorticogenesisVisualizationView()
         }
     }
 }
