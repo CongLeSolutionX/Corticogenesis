@@ -24,7 +24,7 @@ Copyright © 2025 Cong Le. All Rights Reserved.
 The documentation for this project is in underconstruction....
 
 
-![WIP](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhseXR3ajdqZ2JucTUyM2RzdGxudmRweTV3cDJyZzg5d2pkZm9pcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oA88lDC8EJasiPLqhZ/giphy.gif)
+![WIP](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnljNHM4ejg3Nndhd2c4b3psYzlxZzIzcXF6bHVsMGljZmc4NnZ6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU0iXDmvifmu3Ab9l6/giphy.gif)
 
 ---
 
